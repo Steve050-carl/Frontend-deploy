@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.container-fluid, .container {
+  padding-left: 2vw;
+  padding-right: 2vw;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
